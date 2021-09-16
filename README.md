@@ -6,7 +6,7 @@ Meus conhecimentos se baseiam em:
 
 <p>
 <ul>
-  <li>Desenvolver, automatizar e publicacar resultados e controles (KPIs);</li>
+  <li>Desenvolver, automatizar e publicar resultados e controles (KPIs);</li>
   <li>Extrair, transformar e analisar dados, através de processos manuais e automatizados;</li>
   <li>Manipulação de bases no formato txt, csv, Excel, Json entre outros;</li>
   <li>Levantamento de requisitos e implantação de relatórios;</li>
