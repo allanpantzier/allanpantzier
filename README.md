@@ -1,6 +1,6 @@
 <h3>Olá, me chamo Allan Pantzier.</h3>
 
-<p>Sou graduado em Administração de Empresas e pós graduado em Gestão Empresarial. Fui proprietário de diversas empresas sempre trabalhando na área financeira. Atualmente tenho dedicado meus estudos para a Área de Business Inteligence.</p>
+<p>Sou graduado em Administração de Empresas e pós graduado em Gestão Empresarial. Possuo mais de 15 anos de experiência nas áreas Administrativa, Financeira e Comercial. Atualmente tenho dedicado meus estudos em Análise de Dados utilizando Microsoft Power BI.</p>
 
 Meus conhecimentos se baseiam em:
 
@@ -8,7 +8,7 @@ Meus conhecimentos se baseiam em:
 <ul>
   <li>Desenvolver, automatizar e publicar resultados e controles (KPIs);</li>
   <li>Extrair, transformar e analisar dados, através de processos manuais e automatizados;</li>
-  <li>Manipulação de bases no formato txt, csv, Excel, Json entre outros;</li>
+  <li>Manipulação de bases no formato txt, csv, Excel, Json, SQL e consulta em APIs;</li>
   <li>Levantamento de requisitos e implantação de relatórios;</li>
   <li>Criação de relatórios e dashboards pelo Power BI Report Server</li>
   <li>Processos de ELT mediante Power Query.</li>
