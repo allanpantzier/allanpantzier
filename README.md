@@ -8,10 +8,10 @@ Meus conhecimentos se baseiam em:
 <ul>
   <li>Desenvolver, automatizar e publicar resultados e controles (KPIs);</li>
   <li>Extrair, transformar e analisar dados, através de processos manuais e automatizados;</li>
-  <li>Manipulação de bases no formato txt, csv, Excel, Json, SQL e consulta em APIs;</li>
-  <li>Levantamento de requisitos e implantação de relatórios;</li>
-  <li>Criação de relatórios e dashboards pelo Power BI Report Server</li>
-  <li>Processos de ELT mediante Power Query.</li>
+  <li>Realizar processos de ETL utilizando o Microsoft Power Query (integrando bases de dados em txt, csv, MS Excel, Json, Xml, MySql, SQL Server e consultas em APIs);</li>
+  <li>Levantar requisitos e implantação de relatórios;</li>
+  <li>Criar relatórios e dashboards utilizando o Microsoft Power BI;</li>
+  <li>Publicar dashboards e aplicativos utilizando o Microsoft Power Service.</li>
   
 </ul></p>
 
