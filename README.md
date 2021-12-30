@@ -1,6 +1,6 @@
 <h3>Olá, me chamo Allan Pantzier.</h3>
 
-<p>Sou graduado em Administração de Empresas e pós graduado em Gestão Empresarial. Possuo mais de 15 anos de experiência nas áreas Administrativa, Financeira e Comercial. Atualmente tenho dedicado meus estudos em Análise de Dados utilizando Microsoft Power BI.</p>
+<p>Sou graduado em Administração de Empresas e tenho MBA em Gestão Empresarial. Possuo mais de 15 anos de experiência nas áreas Administrativa, Financeira e Comercial. Atualmente tenho dedicado meus estudos em Análise de Dados utilizando Microsoft Power BI.</p>
 
 Meus conhecimentos se baseiam em:
 
@@ -15,11 +15,13 @@ Meus conhecimentos se baseiam em:
   
 </ul></p>
 
-  *** Conhecimento avançado no pacote office.<br>
+  *** Conhecimento avançado no pacote office;<br>
+  *** Conhecimento avançado em matemática financeira;<br>
   *** Conhecimento intermediário em Inglês.
   
   https://www.linkedin.com/in/allanpantzier/<br>
   e-mail: allanpantz@gmail.com
+  
 
 
 
