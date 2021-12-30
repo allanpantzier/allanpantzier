@@ -16,6 +16,15 @@ Meus conhecimentos se baseiam em:
   
 </ul></p>
 
+  Certificações:
+ <ul> 
+  <li><a href="https://datab.eadplataforma.com/certificado/003644">Power BI Especialista - DATAB - 56 horas</a></li>
+  <li><a href="https://cursos.alura.com.br/degree/certificate/5624da5b-eb0a-4804-84d1-aa738bd8d9e3">Formação em Power BI - Alura - 50 horas</a></li>
+  <li><a href="https://cursos.alura.com.br/certificate/6b94a49d-357a-43ee-b5aa-11e964882906">Power BI - Tratamento de Dados no Power Query - Alura - 08 horas</a></li>
+  <li><a href="https://cursos.alura.com.br/certificate/0f030a76-36ab-430b-9cf4-dff3e5407ebd">Power BI - Entendendo Fórmulas DAX - Alura - 10 horas</a></li>
+ </ul> 
+  <br>
+  
   *** Conhecimento avançado no pacote office;<br>
   *** Conhecimento avançado em matemática financeira;<br>
   *** Conhecimento intermediário em Inglês.
